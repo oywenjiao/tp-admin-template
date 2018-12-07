@@ -1,0 +1,8 @@
+.table tr th,.table tr td{text-align: center;}
+.input_width_list input,.input_width_list select{width: 180px; }
+.log{}
+.log a{font-size: 14px;padding: 0 20px;text-decoration: none;}
+.log_content1,.log_content2,.log_content3{font-weight: bold;}
+.log_content1{color: #002EAA;}
+.log_content2{color: #CB0000;}
+.log_content3{color: #039512;}

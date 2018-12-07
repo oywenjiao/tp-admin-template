@@ -1,0 +1,41 @@
+.ge_search{
+    height: 40px;
+    border:solid 2px #ddd;
+    margin-bottom: 10px;
+}
+.ge_search .ge_box{
+    height: 30px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    overflow: hidden;
+
+}
+.ge_search .ge_box .ge_img{
+    float: left;
+    width: 28px;
+    height: 28px;
+    margin-left: 10px;
+}
+.ge_search .ge_box .ge_li{
+    float: left;
+    margin-left: 10px;
+    font-size: 14px;
+}
+.ge_search .ge_box .ge_li span{
+    margin-right: 5px;
+}
+.ge_search .ge_box .ge_li input{
+    height: 28px;
+}
+.ge_search .ge_box .ge_sub{
+    border: none;
+    height: 28px;
+    width: 80px;
+    background: #438EB9;
+    font-size: 15px;
+    font-weight: bold;
+    color: #fff;
+    margin-left: 10px;
+
+}
+
